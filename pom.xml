@@ -3,7 +3,7 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.fracpete</groupId>
+  <groupId>com.github.Reddy1990</groupId>
   <artifactId>rsync4j</artifactId>
   <version>3.1.2-7</version>
   <packaging>jar</packaging>
@@ -29,7 +29,7 @@
 
   <developers>
     <developer>
-      <id>fracpete</id>
+      <id>Reddy1990</id>
       <name>Peter Reutemann</name>
       <email>fracpete@waikato.ac.nz</email>
       <url>http://www.cms.waikato.ac.nz/~fracpete/</url>
